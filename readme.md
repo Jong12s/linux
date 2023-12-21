@@ -3,7 +3,7 @@
 ## title
 hello, input body !
 
->note : GitHub....
+>note : GitHub....<
 Blog : [naver.com](https://naver.com) - naver.com
 
 |site|URL|
